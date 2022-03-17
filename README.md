@@ -2,9 +2,22 @@
 <p>A Power BI dashboard analyzing OTC CatchUps.</p>
 
 ## File Contents
-- OTC scraper.ipynb - Code to scrape OTC catchup summaries from CatchUp #54 available on the [OTC website](https://catchup.ourtech.community/summary).
-- data folder - Contains markdown files of CatchUp summaries starting from CatchUp #11 to CatchUp #53 with a few missing.
-- old otcs.ipynb - Code to extract relevant data from the summaries and saving it to  old_otcs.csv
+```
+*
+├───data
+    ├───old summaries
+        ─── *.md
+    ├─── *.csv
+├───scripts
+    ├─── *.ipynb
+├───results
+└───
+```
+- data folder 
+  - Contains markdown files of CatchUp summaries starting from CatchUp #11 to CatchUp #53 with a few missing.
+  - Final csv files used to make visualizations.
+- OTC CatchUp summary scraper.ipynb - Code to scrape OTC catchup summaries from CatchUp #54 available on the [OTC website](https://catchup.ourtech.community/summary).
+- old otcs.ipynb - Code to extract relevant data from the summaries and saving it to  old_otcs.csv.
 - data cleaning.ipynb - Code to merge the csv files and get all the columns in the right format for visualization.
 
 ## Results

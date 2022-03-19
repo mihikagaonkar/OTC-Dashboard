@@ -1,5 +1,5 @@
 # OTC CatchUp Dashboard
-<p>A Power BI dashboard analyzing OTC CatchUps.</p>
+<p>A Power BI/Google Studio dashboard analyzing OTC CatchUps.</p>
 
 ## File Contents
 ```
@@ -36,4 +36,6 @@ Note: The data regarding attendees consists of data from OTC CatchUp #54 to Catc
 
 Special mentions to [Dheeraj Lalwani](https://github.com/dheerajdlalwani) for providing the data for CatchUp #11 to CatchUp #53 summaries.
 
-You can find the dashboard [here](https://mihikagaonkar.github.io/OTC-Dashboard/)
+Some issues were faced while making the Power BI Dashboard public, therefore a static image of the report is presented. It can be found [here](https://mihikagaonkar.github.io/OTC-Dashboard/)
+
+Same dashboard was recreated in Google Data Studio. It can be found [here](https://mihikagaonkar.github.io/OTC-Dashboard/data_studio)

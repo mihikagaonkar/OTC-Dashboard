@@ -22,7 +22,7 @@
 
 ## Results
 <p align="center">
-  <img src="result.png" alt="result" width="80%" />
+  <img src="./results/result.png" alt="result" width="80%" />
 </p>
 
 - The first graph shows the duration of the sessions in descending order. OTC CatchUp #61 was the longest session which went on for 14.08 hours i.e. 14 hours 6 minutes
